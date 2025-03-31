@@ -1,0 +1,13 @@
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\GHTK.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\GHTK.Authorization.AssemblyInfoInputs.cache
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\GHTK.Authorization.AssemblyInfo.cs
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\GHTK.Authorization.csproj.CoreCompileInputs.cache
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\GHTK.Authorization.sourcelink.json
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\GHTK.Authorization.csproj.AssemblyReference.cache
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\bin\Debug\net8.0\GHTK.Authorization.deps.json
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\bin\Debug\net8.0\GHTK.Authorization.dll
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\bin\Debug\net8.0\GHTK.Authorization.pdb
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\GHTK.Authorization.dll
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\refint\GHTK.Authorization.dll
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\GHTK.Authorization.pdb
+D:\Tutorial\ghtk-api\GhtkApi\GHTK.Authorization\obj\Debug\net8.0\ref\GHTK.Authorization.dll

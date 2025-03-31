@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Tutorial\\ghtk-api\\GhtkApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095ECE1B-2230-479C-B176-15D47AB1CC0C}|GHTK.Authorization\\GHTK.Authorization.csproj|d:\\tutorial\\ghtk-api\\ghtkapi\\ghtk.authorization\\xclientsourceauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095ECE1B-2230-479C-B176-15D47AB1CC0C}|GHTK.Authorization\\GHTK.Authorization.csproj|solutionrelative:ghtk.authorization\\xclientsourceauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47DEE3D-82BD-46EA-B44B-77FEC06DACD4}|Ghtk.Api\\Ghtk.Api.csproj|d:\\tutorial\\ghtk-api\\ghtkapi\\ghtk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47DEE3D-82BD-46EA-B44B-77FEC06DACD4}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47DEE3D-82BD-46EA-B44B-77FEC06DACD4}|Ghtk.Api\\Ghtk.Api.csproj|d:\\tutorial\\ghtk-api\\ghtkapi\\ghtk.api\\models\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47DEE3D-82BD-46EA-B44B-77FEC06DACD4}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\models\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47DEE3D-82BD-46EA-B44B-77FEC06DACD4}|Ghtk.Api\\Ghtk.Api.csproj|d:\\tutorial\\ghtk-api\\ghtkapi\\ghtk.api\\controllers\\shipmentservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47DEE3D-82BD-46EA-B44B-77FEC06DACD4}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\controllers\\shipmentservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095ECE1B-2230-479C-B176-15D47AB1CC0C}|GHTK.Authorization\\GHTK.Authorization.csproj|d:\\tutorial\\ghtk-api\\ghtkapi\\ghtk.authorization\\xclientsourceauthenticationhandleroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095ECE1B-2230-479C-B176-15D47AB1CC0C}|GHTK.Authorization\\GHTK.Authorization.csproj|solutionrelative:ghtk.authorization\\xclientsourceauthenticationhandleroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095ECE1B-2230-479C-B176-15D47AB1CC0C}|GHTK.Authorization\\GHTK.Authorization.csproj|d:\\tutorial\\ghtk-api\\ghtkapi\\ghtk.authorization\\xclientsourceauthenticationhandlerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095ECE1B-2230-479C-B176-15D47AB1CC0C}|GHTK.Authorization\\GHTK.Authorization.csproj|solutionrelative:ghtk.authorization\\xclientsourceauthenticationhandlerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 320,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XClientSourceAuthenticationHandlerExtensions.cs",
+              "DocumentMoniker": "D:\\Tutorial\\ghtk-api\\GhtkApi\\GHTK.Authorization\\XClientSourceAuthenticationHandlerExtensions.cs",
+              "RelativeDocumentMoniker": "GHTK.Authorization\\XClientSourceAuthenticationHandlerExtensions.cs",
+              "ToolTip": "D:\\Tutorial\\ghtk-api\\GhtkApi\\GHTK.Authorization\\XClientSourceAuthenticationHandlerExtensions.cs",
+              "RelativeToolTip": "GHTK.Authorization\\XClientSourceAuthenticationHandlerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:26:39.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XClientSourceAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\Tutorial\\ghtk-api\\GhtkApi\\GHTK.Authorization\\XClientSourceAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "GHTK.Authorization\\XClientSourceAuthenticationHandler.cs",
+              "ToolTip": "D:\\Tutorial\\ghtk-api\\GhtkApi\\GHTK.Authorization\\XClientSourceAuthenticationHandler.cs*",
+              "RelativeToolTip": "GHTK.Authorization\\XClientSourceAuthenticationHandler.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:38:20.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tutorial\\ghtk-api\\GhtkApi\\Ghtk.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Program.cs",
+              "ToolTip": "D:\\Tutorial\\ghtk-api\\GhtkApi\\Ghtk.Api\\Program.cs",
+              "RelativeToolTip": "Ghtk.Api\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wBQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:30:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrder.cs",
+              "DocumentMoniker": "D:\\Tutorial\\ghtk-api\\GhtkApi\\Ghtk.Api\\Models\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Models\\CreateOrder.cs",
+              "ToolTip": "D:\\Tutorial\\ghtk-api\\GhtkApi\\Ghtk.Api\\Models\\CreateOrder.cs",
+              "RelativeToolTip": "Ghtk.Api\\Models\\CreateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:19:05.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipmentServiceController.cs",
+              "DocumentMoniker": "D:\\Tutorial\\ghtk-api\\GhtkApi\\Ghtk.Api\\Controllers\\ShipmentServiceController.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Controllers\\ShipmentServiceController.cs",
+              "ToolTip": "D:\\Tutorial\\ghtk-api\\GhtkApi\\Ghtk.Api\\Controllers\\ShipmentServiceController.cs*",
+              "RelativeToolTip": "Ghtk.Api\\Controllers\\ShipmentServiceController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:12:00.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XClientSourceAuthenticationHandlerOptions.cs",
+              "DocumentMoniker": "D:\\Tutorial\\ghtk-api\\GhtkApi\\GHTK.Authorization\\XClientSourceAuthenticationHandlerOptions.cs",
+              "RelativeDocumentMoniker": "GHTK.Authorization\\XClientSourceAuthenticationHandlerOptions.cs",
+              "ToolTip": "D:\\Tutorial\\ghtk-api\\GhtkApi\\GHTK.Authorization\\XClientSourceAuthenticationHandlerOptions.cs",
+              "RelativeToolTip": "GHTK.Authorization\\XClientSourceAuthenticationHandlerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:51:43.147Z",
+              "EditorCaption": ""
             }
           ]
         }

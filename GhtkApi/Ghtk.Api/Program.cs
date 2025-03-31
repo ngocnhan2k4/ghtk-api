@@ -1,4 +1,6 @@
 
+using GHTK.Authorization;
+
 namespace Ghtk.Api
 {
     public class Program
@@ -13,6 +15,12 @@ namespace Ghtk.Api
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddXClientSource(options =>
+            {
+                options.ClientSourceValidator = clientSource => clientSource == "ghtk";
+            });
+
 
             var app = builder.Build();
 

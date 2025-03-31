@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Ghtk.Api.Controllers.ShipmentServiceController",
+    "Method": "CreateOrder",
+    "RelativePath": "services/shipment/orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createOrder",
+        "Type": "Ghtk.Api.Models.CreateOrder",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
